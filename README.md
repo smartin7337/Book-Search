@@ -8,7 +8,7 @@ This assignment uses Apollo Server and a MongoDB database/Atlas to use GraphQL q
 
 ![Screenshot of homepage of login ](/screenshots/login.png)
 
-![Link to repository](https://smartin7337.github.io/Book-Search/)
+[Link to repository ](https://smartin7337.github.io/Book-Search/)
 
-![Link to heroku](https://book-search-sv.herokuapp.com/)
+[Link to heroku ](https://book-search-sv.herokuapp.com/)
 
